@@ -1,1 +1,1 @@
-# This is first step to develope my first webpage.
+# This is first step to develop my first webpage.
